@@ -1,4 +1,4 @@
 game:GetService("StarterGui"):SetCore("SendNotification",{
-	Title = "Updating", -- Required
-	Text = "Whitelist is being updated please wait :)", -- Required
+	Title = "This Script Is Outdated", -- Required
+	Text = "Go to discord for the new Version", -- Required
 })
